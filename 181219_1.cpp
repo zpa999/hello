@@ -10,6 +10,7 @@ int main()
 
 	printf("hi");
 
+	printf("hoho");
 
     std::cout << "Hello World!\n"; 
 }
