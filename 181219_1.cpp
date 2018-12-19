@@ -8,6 +8,8 @@ int main()
 {
 	printf("hello world");
 
+	printf("hi");
+
 
     std::cout << "Hello World!\n"; 
 }
