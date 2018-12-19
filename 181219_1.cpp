@@ -6,6 +6,9 @@
 
 int main()
 {
+	printf("hello world");
+
+
     std::cout << "Hello World!\n"; 
 }
 
