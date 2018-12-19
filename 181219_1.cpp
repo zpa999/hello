@@ -11,7 +11,10 @@ int main()
 	printf("hi");
 
 	printf("hoho");
+
 	printf("hihi");
+
+	printf("end");
 
 
     std::cout << "Hello World!\n"; 
